@@ -84,7 +84,6 @@ IMDBSentiCompare/
 ├── README.md
 └── requirements.txt
 ```
-> **Note**: To prevent the project from being overly large, the "Train.csv" and "result" folders are too big to upload. For the former, please search for resources online and download them by yourself. For the latter, the program will generate them automatically
 
 ## 🚀 Quick Start
 
