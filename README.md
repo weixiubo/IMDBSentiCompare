@@ -74,7 +74,7 @@ IMDBSentiCompare/
 │   ├── ml_models.py                # Traditional ML
 │   ├── feature_selection.py        # Advanced feature engineering
 │   └── llm_classifier.py           # LLM integration
-├── 📈 Evaluation_And_Analysis
+├── 📈 Evaluation
 │   └── evaluation.py         # Comprehensive evaluation suite
 ├── 📂 Data_And_Results
 │   ├── Train.csv / Valid.csv / Test.csv
