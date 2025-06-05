@@ -62,21 +62,21 @@ IMDBSentiCompare is a comprehensive sentiment analysis research platform that sy
 
 ```
 IMDBSentiCompare/
-├── 📁 Core Modules
+├── 📁 CoreModules
 │   ├── config.py              # Central configuration
 │   ├── main.py               # Pipeline orchestrator
 │   └── utils.py              # Shared utilities
-├── 📊 Data Processing
+├── 📊 DataProcessing_And_Analysis
 │   ├── data_analysis.py      # EDA and statistics
 │   └── data_preprocessing.py # Text cleaning & vectorization
-├── 🔧 Classification Methods
+├── 🔧 ClassificationMethods
 │   ├── rule_based_classifier.py    # Multi-lexicon system
 │   ├── ml_models.py                # Traditional ML
 │   ├── feature_selection.py        # Advanced feature engineering
 │   └── llm_classifier.py           # LLM integration
-├── 📈 Evaluation & Analysis
+├── 📈 Evaluation_And_Analysis
 │   └── evaluation.py         # Comprehensive evaluation suite
-├── 📂 Data & Results
+├── 📂 Data_And_Results
 │   ├── Train.csv / Valid.csv / Test.csv
 │   ├── models/               # Saved model artifacts
 │   ├── results/              # Evaluation outputs
